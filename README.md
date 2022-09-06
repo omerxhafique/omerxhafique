@@ -4,9 +4,9 @@
 
 Software Engineer
 - Mobile Application Developer
-- 🌐 Currently working as a Software Engineer (Flutter & iOS) at Emblemtechnologies
+- 🌐 Currently working as a Software Engineer at Emblemtechnologies
 - 🎓 Graduate of University of the punjab
-- 💻 Specialising in iOS & Flutter development.
+- 💻 Specialising in Mobile Application development.
 - 👨‍🏫 Experienced with all stages of the development cycle for native and cross platform mobile applications.
 - 🀄 Well-versed in numerous programming languages including Swift, SwiftUI, Objective-C, Dart.
 - ⛓️ Strong background in Project management and Teamwork.
