@@ -20,13 +20,13 @@ Software Engineer
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/omershafique/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://www.facebook.com/omershafique0/">
+<a href="https://www.facebook.com/omerxhafique/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/omer__shafique/">
+<a href="https://www.instagram.com/omerxhafique/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
-<a href="mailto:omershafique0@gmail.com">
+<a href="mailto:omerxhafique@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<a href="https://m.me/omershafique0/">
+<a href="https://m.me/omerxhafique/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
 <a href="https://wa.me/923310437099?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
