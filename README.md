@@ -1,15 +1,32 @@
-# **Muhammad Omer Shafique**
+# Hi there! 👋 I'm Muhammad Omer Shafique
 
-### Software Engineer
+🚀 **Sr. Software Engineer | Python Developer | Flutter Enthusiast**  
 
-Software Engineer
-- Mobile Application Developer
-- 🌐 Currently working as a Software Engineer at Emblemtechnologies
-- 🎓 Graduate of University of the punjab
-- 💻 Specialising in Mobile Application development.
-- 👨‍🏫 Experienced with all stages of the development cycle for native and cross platform mobile applications.
-- 🀄 Well-versed in numerous programming languages including Swift, SwiftUI, Objective-C, Dart.
-- ⛓️ Strong background in Project management and Teamwork.
+I'm passionate about building robust systems and crafting seamless cross-platform mobile applications.  
+
+---
+
+## 💡 About Me  
+- 🌟 Skilled in **Python**, specializing in frameworks like **Django**, **Flask**, and **FastAPI**.  
+- 📱 Proficient in **Flutter** for creating intuitive and responsive mobile applications.  
+- ⚡ Focused on delivering **scalable**, **efficient**, and **user-friendly** solutions.  
+- 🎯 Continuously learning and exploring new technologies to expand my expertise.  
+
+---
+
+## 🔧 Tech Stack  
+
+### Backend Development  
+- **Languages**: Python  
+- **Frameworks**: Django, Flask, FastAPI  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Tools**: Docker, REST API, GraphQL, AWS, Firebase  
+
+### Mobile App Development  
+- **Framework**: Flutter  
+- **Tools**: Dart, Bloc/Cubit, GetX, Provider, Firebase  
+
+---
 
 <br><br>
 
