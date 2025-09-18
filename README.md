@@ -1,8 +1,8 @@
-# Hi there! ✨ I'm Muhammad Omer Shafique
+# Hi there! ✨ I'm Muhammad Omer Shafique  
 
-🚀 **Sr. Software Engineer | Python/Django Backend Specialist | Flutter & MERN Stack Enthusiast**  
+🚀 **Sr. Software Engineer | Python/Django Backend Specialist | Flutter & MERN Stack Enthusiast | AI/LLM Explorer**  
 
-I'm passionate about designing scalable systems, developing modern web and mobile applications, and exploring new tech frontiers.   
+I’m passionate about designing scalable systems, building modern web & mobile applications, and integrating **AI-powered solutions** with cutting-edge technologies.  
 
 ---
 
@@ -10,7 +10,8 @@ I'm passionate about designing scalable systems, developing modern web and mobil
 - ✨ **Backend Expertise**: Skilled in Python (Django, Flask), FastAPI, and scalable system design.  
 - 📱 **Mobile Development**: Proficient in Flutter for seamless cross-platform apps with state management techniques like Bloc and Provider.  
 - 🚀 **Web Development**: Diving into the **MERN stack** and focusing on creating modern single-page applications.  
-- ☁️ **Cloud Proficiency**: Hands-on experience with AWS, Docker, Kubernetes, and Firebase.  
+- 🤖 **AI/LLM Development**: Hands-on experience with **Large Language Models (LLMs)**, **LangChain**, **LangGraph**, and building intelligent assistants.  
+- ☁️ **Cloud Proficiency**: Experienced with AWS, Docker, Kubernetes, and Firebase for cloud-native deployments.  
 - 🔧 Continuously honing skills to deliver innovative and efficient solutions.  
 
 ---
@@ -22,6 +23,11 @@ I'm passionate about designing scalable systems, developing modern web and mobil
 - **Frameworks**: Django, Flask, FastAPI  
 - **Databases**: PostgreSQL, MySQL, SQLite  
 - **Tools**: Docker, Kubernetes, REST API, GraphQL, AWS, Firebase  
+
+### AI / LLM Development  
+- **Frameworks & Tools**: LangChain, LangGraph  
+- **Models**: OpenAI GPT, Hugging Face Transformers  
+- **Applications**: Chatbots, RAG (Retrieval Augmented Generation), Intelligent Agents  
 
 ### Mobile App Development  
 - **Framework**: Flutter  
@@ -41,6 +47,4 @@ I'm passionate about designing scalable systems, developing modern web and mobil
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
 <a href="mailto:omerxhafique@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<!-- <a href="https://wa.me/923310437099?text=%23Github">
-<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a> -->
-</div>
+</div>  
