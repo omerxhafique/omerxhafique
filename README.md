@@ -4,6 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omerxhafique.vercel.app-2563eb?style=for-the-badge)](https://omerxhafique.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omershafique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omershafique/)
+[![Medium](https://img.shields.io/badge/Medium-@omershafique-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omershafique)
 [![Email](https://img.shields.io/badge/Email-omerxhafique%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerxhafique@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-6B7280?style=for-the-badge)](https://drive.google.com/file/d/1P4qzJ7m9OBBeDR6rovBTR9cj2l4QDIda/view?usp=sharing)
 
@@ -73,4 +74,5 @@ Full portfolio: **[omerxhafique.vercel.app](https://omerxhafique.vercel.app/#pro
 - **Portfolio:** https://omerxhafique.vercel.app/
 - **Email:** omerxhafique@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/omershafique/
+- **Medium:** https://medium.com/@omershafique
 - **GitHub:** https://github.com/omerxhafique
