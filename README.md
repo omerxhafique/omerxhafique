@@ -1,6 +1,6 @@
 # Muhammad Omer Shafique
 
-**Senior Software Engineer** · Python · AWS · GenAI/RAG · **Open to remote (US/EU overlap)**
+**Senior Software Engineer** · Python (FastAPI/Django) · AWS · GenAI/RAG · **Open to remote (USD, US/EU overlap)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omerxhafique.vercel.app-2563eb?style=for-the-badge)](https://omerxhafique.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omershafique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omershafique/)
@@ -8,22 +8,23 @@
 [![Email](https://img.shields.io/badge/Email-omerxhafique%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerxhafique@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-6B7280?style=for-the-badge)](https://drive.google.com/file/d/1P4qzJ7m9OBBeDR6rovBTR9cj2l4QDIda/view?usp=sharing)
 
-I build **production Python backends** (FastAPI, Django REST) on **AWS**, and integrate **LLMs** (OpenAI, LangChain, RAG) with solid auth, data layers, and CI/CD. Based in Pakistan (UTC+5); comfortable async with international product teams.
+I build **production Python backends** on **AWS** and integrate **LLMs** (OpenAI, LangChain, RAG) into reliable APIs used by real products.
+I focus on architecture, maintainability, and delivery: auth, data modeling, observability, CI/CD, and calm production debugging.
 
 **Portfolio → [omerxhafique.vercel.app](https://omerxhafique.vercel.app/)**
 
 ---
 
-## Open source & proof of work
+## Featured repositories
 
-Repos that reflect how I design APIs and ship ML-backed services:
+Repositories that best reflect my backend and AI engineering work:
 
-| Repo | What it shows |
+| Repo | Why it matters |
 |------|----------------|
-| [**vocal-separation-transcription**](https://github.com/omerxhafique/vocal-separation-transcription) | FastAPI microservice · Docker · Demucs + Whisper · structured JSON API & ADR-style docs |
-| [**CalendarAirplane**](https://github.com/omerxhafique/CalendarAirplane) | macOS SwiftUI · OAuth2 loopback · Google Calendar integration · production-minded README |
-| [**clip-fusion**](https://github.com/omerxhafique/clip-fusion) | Python tooling (portfolio project) |
-| [**todo-app**](https://github.com/omerxhafique/todo-app) | MERN full-stack sample |
+| [**vocal-separation-transcription**](https://github.com/omerxhafique/vocal-separation-transcription) | FastAPI microservice with Dockerized ML pipeline (Demucs + Whisper), clean API contracts, and architecture notes |
+| [**CalendarAirplane**](https://github.com/omerxhafique/CalendarAirplane) | Production-grade macOS app with OAuth2, calendar integration, secure local config, and release/install documentation |
+| [**clip-fusion**](https://github.com/omerxhafique/clip-fusion) | Python-based media tooling project from product work |
+| [**todo-app**](https://github.com/omerxhafique/todo-app) | Full-stack MERN reference implementation with authentication |
 
 ---
 
