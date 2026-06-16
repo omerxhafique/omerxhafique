@@ -1,6 +1,6 @@
 # Muhammad Omer Shafique
 
-**Full Stack Developer** · Pakistan · remote-friendly
+**Senior Software Engineer** · Python · AWS · GenAI/RAG · **Open to remote (US/EU overlap)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omerxhafique.vercel.app-2563eb?style=for-the-badge)](https://omerxhafique.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omershafique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omershafique/)
@@ -8,71 +8,69 @@
 [![Email](https://img.shields.io/badge/Email-omerxhafique%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerxhafique@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-6B7280?style=for-the-badge)](https://drive.google.com/file/d/1P4qzJ7m9OBBeDR6rovBTR9cj2l4QDIda/view?usp=sharing)
 
-Full stack developer across **Python services**, **cloud-native APIs**, **GenAI**, and **React, Flutter, and Swift** clients. I care about the problem, the architecture, and what holds up in production.
+I build **production Python backends** (FastAPI, Django REST) on **AWS**, and integrate **LLMs** (OpenAI, LangChain, RAG) with solid auth, data layers, and CI/CD. Based in Pakistan (UTC+5); comfortable async with international product teams.
 
-**Portfolio → [https://omerxhafique.vercel.app](https://omerxhafique.vercel.app/)**
-
----
-
-## About
-
-- **6+** years building software · **20+** projects shipped · **10+** live apps on major stores
-- Full-stack delivery from APIs and data models to web and mobile UX
-- Microservices, event-driven design, and AWS deployments
-- GenAI — LLMs, LangChain, RAG, OAuth2/JWT
-- Code reviews, mentoring, docs, and calm production debugging
+**Portfolio → [omerxhafique.vercel.app](https://omerxhafique.vercel.app/)**
 
 ---
 
-## Experience
+## Open source & proof of work
 
-| Role | Company | When |
-|------|---------|------|
-| **Senior Software Engineer** | Cogent Labs | Mar 2025 – Present |
-| **Senior Software Engineer** | Emblem Technologies | Jan 2021 – Mar 2025 |
-| **Mobile Application Developer** | TecSpine | Oct 2020 – Jan 2021 |
-| **Software Developer** | Float Technologies | Dec 2019 – Sep 2020 |
+Repos that reflect how I design APIs and ship ML-backed services:
 
-**Education:** B.S. Computer Science — University of the Punjab (2016 – 2020)
+| Repo | What it shows |
+|------|----------------|
+| [**vocal-separation-transcription**](https://github.com/omerxhafique/vocal-separation-transcription) | FastAPI microservice · Docker · Demucs + Whisper · structured JSON API & ADR-style docs |
+| [**CalendarAirplane**](https://github.com/omerxhafique/CalendarAirplane) | macOS SwiftUI · OAuth2 loopback · Google Calendar integration · production-minded README |
+| [**clip-fusion**](https://github.com/omerxhafique/clip-fusion) | Python tooling (portfolio project) |
+| [**todo-app**](https://github.com/omerxhafique/todo-app) | MERN full-stack sample |
 
-<details>
-<summary><strong>Recent highlights (Cogent Labs)</strong></summary>
+---
+
+## Now
+
+**Senior Software Engineer @ [Cogent Labs](https://www.cogentinfo.com/)** (Mar 2025 – present)
 
 - Microservices with **FastAPI** and **Django REST Framework**
-- **OpenAI** + **LangChain** pipelines for summarization, semantic search, and conversational AI
-- **Celery**, **Redis**, **OAuth2/JWT**, database architecture on **AWS** / **Docker**
-- **GitHub Actions** CI/CD · code reviews and mentoring
+- **OpenAI** + **LangChain** for summarization, semantic search, and conversational flows
+- **Celery**, **Redis**, **PostgreSQL**, **OAuth2/JWT** on **AWS** / **Docker**
+- **GitHub Actions** CI/CD · code review · mentoring
 
-</details>
-
----
-
-## Expertise
-
-`Python` `Django` `FastAPI` `Flask` `React` `Next.js` `Flutter` `Dart` `Swift` `SwiftUI`  
-`PostgreSQL` `Redis` `AWS` `Docker` `Kubernetes` `LangChain` `OpenAI` `RAG` `Celery` `PyTest` `GitHub Actions`
+Previously **Senior Software Engineer @ Emblem Technologies** (2021–2025): Django/Flask backends, AWS (EC2, S3, RDS, Lambda), IoT pipelines, Flutter/Swift when the product needed mobile.
 
 ---
 
-## Selected work
+## Stack
 
-Full portfolio: **[omerxhafique.vercel.app](https://omerxhafique.vercel.app/#projects)**
+**Backend & cloud:** `Python` `FastAPI` `Django` `Django REST Framework` `Flask` `Celery` `PostgreSQL` `Redis` `AWS` `Docker` `GitHub Actions`
+
+**AI & data:** `LangChain` `OpenAI API` `RAG` `Whisper` `PyTest`
+
+**Clients (when needed):** `React` `Flutter` `Swift` `SwiftUI`
+
+---
+
+## Selected client work
+
+Full case studies on the portfolio.
 
 | Project | Focus |
 |---------|--------|
-| [Honda Atlas Cars](https://omerxhafique.vercel.app/#projects) | Full stack · Flutter |
 | [OptionsDepth](https://optionsdepth.com/) | Backend, cloud & AI |
-| [Onthago](https://onthago.app/) | Full stack · web, mobile, backend |
-| [MyClone Technologies](https://myclonetechnologies.com/) | APIs, sockets, 3D |
-| [Needle Music](https://omerxhafique.vercel.app/#projects) | Full stack · iOS |
-| [Clip Fusion](https://github.com/omerxhafique/clip-fusion) | Python · open source |
+| [Onthago](https://onthago.app/) | Web, mobile, backend |
+| [Honda Atlas Cars](https://omerxhafique.vercel.app/#projects) | Enterprise · Flutter |
+| [MyClone Technologies](https://myclonetechnologies.com/) | APIs, real-time, 3D |
 
 ---
 
-## Connect
+## Writing
 
-- **Portfolio:** https://omerxhafique.vercel.app/
+Technical posts on [Medium](https://medium.com/@omershafique) — Python design patterns, backend engineering, and system modernization.
+
+---
+
+## Contact
+
 - **Email:** omerxhafique@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/omershafique/
-- **Medium:** https://medium.com/@omershafique
-- **GitHub:** https://github.com/omerxhafique
+- **Hiring:** Open to **full-time remote** roles (USD) — backend, platform, or AI-backend engineer.
