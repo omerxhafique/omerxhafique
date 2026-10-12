@@ -1,72 +1,71 @@
 # Muhammad Omer Shafique
 
-**Senior Software Engineer** · Python (FastAPI/Django) · AWS · GenAI/RAG · **Open to remote (USD, US/EU overlap)**
+**Applied AI & Software Engineer** · Production AI systems · RAG · Validation of automated decisions · Python (FastAPI/Django) · AWS
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omerxhafique.vercel.app-2563eb?style=for-the-badge)](https://omerxhafique.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omershafique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omershafique/)
 [![Medium](https://img.shields.io/badge/Medium-@omershafique-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omershafique)
 [![Email](https://img.shields.io/badge/Email-omerxhafique%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerxhafique@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-6B7280?style=for-the-badge)](https://drive.google.com/file/d/1P4qzJ7m9OBBeDR6rovBTR9cj2l4QDIda/view?usp=sharing)
 
-I build **production Python backends** on **AWS** and integrate **LLMs** (OpenAI, LangChain, RAG) into reliable APIs used by real products.
-I focus on architecture, maintainability, and delivery: auth, data modeling, observability, CI/CD, and calm production debugging.
+I build production systems where accuracy and accountability decide whether software can be trusted: retrieval-augmented generation (RAG), multi-agent assistants, and validation logic that checks automated decisions before they touch real data.
+
+I care about making these capabilities usable by organizations with small technical teams, such as local governments and community service providers, through auditable design, clear documentation, and shared knowledge.
 
 **Portfolio → [omerxhafique.vercel.app](https://omerxhafique.vercel.app/)**
 
 ---
 
-## Featured repositories
+## Focus areas
 
-Repositories that best reflect my backend and AI engineering work:
-
-| Repo | Why it matters |
-|------|----------------|
-| [**vocal-separation-transcription**](https://github.com/omerxhafique/vocal-separation-transcription) | FastAPI microservice with Dockerized ML pipeline (Demucs + Whisper), clean API contracts, and architecture notes |
-| [**CalendarAirplane**](https://github.com/omerxhafique/CalendarAirplane) | Production-grade macOS app with OAuth2, calendar integration, secure local config, and release/install documentation |
-| [**clip-fusion**](https://github.com/omerxhafique/clip-fusion) | Python-based media tooling project from product work |
-| [**todo-app**](https://github.com/omerxhafique/todo-app) | Full-stack MERN reference implementation with authentication |
+- **Trustworthy AI in production:** grounding responses in verified sources, and checking AI actions before they affect records.
+- **Backend and data engineering:** APIs, PostgreSQL design and performance, cloud infrastructure, CI/CD.
+- **Sharing practical knowledge:** technical writing and open-source work for engineers learning production practice.
 
 ---
 
-## Now
+## Work history
 
-**Senior Software Engineer @ [Cogent Labs](https://www.cogentinfo.com/)** (Mar 2025 – present)
+| Role | Organization | Dates |
+|------|--------------|-------|
+| Senior Consultant, Full Stack Development (Generative AI engineering) | [Systems Limited](https://www.systemsltd.com/) | Sep 2026 – present |
+| Senior Software Engineer | [Cogent Labs](https://cogentlabs.co/) | Mar 2025 – Sep 2026 |
+| Senior Software Engineer | Emblem Technologies | Jan 2021 – Mar 2025 |
+| Mobile Application Developer | TecSpine | Oct 2020 – Jan 2021 |
+| Software Developer | Float Technologies | Dec 2019 – Sep 2020 |
 
-- Microservices with **FastAPI** and **Django REST Framework**
-- **OpenAI** + **LangChain** for summarization, semantic search, and conversational flows
-- **Celery**, **Redis**, **PostgreSQL**, **OAuth2/JWT** on **AWS** / **Docker**
-- **GitHub Actions** CI/CD · code review · mentoring
+---
 
-Previously **Senior Software Engineer @ Emblem Technologies** (2021–2025): Django/Flask backends, AWS (EC2, S3, RDS, Lambda), IoT pipelines, Flutter/Swift when the product needed mobile.
+## Featured repositories
+
+| Repo | What it shows |
+|------|---------------|
+| [**vocal-separation-transcription**](https://github.com/omerxhafique/vocal-separation-transcription) | FastAPI microservice with a Dockerized ML pipeline (Demucs + Whisper), clean API contracts, and architecture notes |
+| [**CalendarAirplane**](https://github.com/omerxhafique/CalendarAirplane) | macOS app with OAuth2, calendar integration, secure local configuration, and release documentation |
+| [**clip-fusion**](https://github.com/omerxhafique/clip-fusion) | Python media tooling |
+| [**todo-app**](https://github.com/omerxhafique/todo-app) | Full-stack MERN reference implementation with authentication |
+
+<!-- Add the flagship AI-assurance project here once it is published. -->
 
 ---
 
 ## Stack
 
-**Backend & cloud:** `Python` `FastAPI` `Django` `Django REST Framework` `Flask` `Celery` `PostgreSQL` `Redis` `AWS` `Docker` `GitHub Actions`
+**Backend and cloud:** `Python` `FastAPI` `Django` `Django REST Framework` `Flask` `Celery` `PostgreSQL` `Redis` `AWS` `Docker` `GitHub Actions`
 
-**AI & data:** `LangChain` `OpenAI API` `RAG` `Whisper` `PyTest`
+**AI and data:** `LangChain` `LangGraph` `OpenAI API` `RAG` `pgvector` `Whisper` `PyTest`
 
-**Clients (when needed):** `React` `Flutter` `Swift` `SwiftUI`
-
----
-
-## Selected client work
-
-Full case studies on the portfolio.
-
-| Project | Focus |
-|---------|--------|
-| [OptionsDepth](https://optionsdepth.com/) | Backend, cloud & AI |
-| [Onthago](https://onthago.app/) | Web, mobile, backend |
-| [Honda Atlas Cars](https://omerxhafique.vercel.app/#projects) | Enterprise · Flutter |
-| [MyClone Technologies](https://myclonetechnologies.com/) | APIs, real-time, 3D |
+**Clients (when needed):** `React` `Next.js` `Flutter` `Swift` `SwiftUI`
 
 ---
 
 ## Writing
 
-Technical posts on [Medium](https://medium.com/@omershafique) — Python design patterns, backend engineering, and system modernization.
+Technical posts on [Medium](https://medium.com/@omershafique):
+
+- [The AI Revolution: What It Means for Us Today](https://medium.com/@omershafique/the-ai-revolution-what-it-means-for-us-today-b75dc21b6651) (May 2026)
+- [An Introduction to Design Patterns for Python Developers](https://medium.com/@omershafique/an-introduction-to-design-patterns-for-python-developers-d5bac701e4bd) and follow-up pattern deep dives (Aug 2025)
+- [What is Backend Engineering? A Beginner's Guide](https://medium.com/@omershafique/what-is-backend-engineering-a-beginners-guide-1925bdf13d78) and the *Backend Engineering Unlocked* series (Apr 2025)
+- [Application Modernization: Transforming Legacy Systems for the Future](https://medium.com/@omershafique/application-modernization-transforming-legacy-systems-for-the-future-ddd7f6c7eacb) (Jan 2025)
 
 ---
 
@@ -74,4 +73,3 @@ Technical posts on [Medium](https://medium.com/@omershafique) — Python design 
 
 - **Email:** omerxhafique@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/omershafique/
-- **Hiring:** Open to **full-time remote** roles (USD) — backend, platform, or AI-backend engineer.
